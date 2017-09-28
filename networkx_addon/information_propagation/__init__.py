@@ -1,0 +1,2 @@
+from networkx_addon.information_propagation.linear_threshold import *
+from networkx_addon.information_propagation.independent_cascade import *
